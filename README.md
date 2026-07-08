@@ -1,4 +1,4 @@
-#Taj Royale — Restaurant Reservation System
+# Taj Royale — Restaurant Reservation System
 
 A full-stack restaurant website and table reservation platform, built for Taj Royale, a fictional royal Indian fine-dining restaurant. Guests can explore a curated menu, learn how each dish is prepared, reserve a table through an interactive floor plan, and manage their bookings from a personal dashboard.
 
