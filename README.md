@@ -47,7 +47,26 @@ Dark, luxury gold-on-black theme with glassmorphism cards
 Toast notifications (react-hot-toast) for feedback on every action
 Fully responsive across mobile, tablet, and desktop
 
+<h2 align="center">📸 Screenshots</h2>
 
+<p align="center">
+  <img src="screenshots/home.png" width="48%">
+  <img src="screenshots/menu.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/login.png" width="48%">
+  <img src="screenshots/reservation.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="48%">
+  <img src="screenshots/about.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/confirmation.png" width="70%">
+</p>
 
 🛠️ Tech Stack
 
