@@ -33,7 +33,7 @@ const env = {
 
   MONGODB_URI: process.env.MONGODB_URI || "",
 
-  CLIENT_ORIGINS: (process.env.CLIENT_ORIGINS || "http://localhost:5173")
+  CLIENT_ORIGINS: (process.env.CLIENT_ORIGINS || "http://localhost:5173,https://taj-royale-reservation-system.vercel.app,http://localhost:8080")
     .split(",")
     .map((origin) => origin.trim())
     .filter(Boolean),
