@@ -40,10 +40,8 @@ app.set("trust proxy", 1);
 /* ------------------------------------------------------------------ */
 app.use(helmet());
 app.use(cors({
-  origin: {
-    // Allow requests from the frontend
-    origin: env.FRONTEND_URL,
-  },
+  origin: env.FRONTEND_URL,
+  credentials: true
 }));
 app.use(globalRateLimiter);
 
